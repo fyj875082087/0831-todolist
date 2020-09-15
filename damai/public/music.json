@@ -1,0 +1,69 @@
+{
+    "data": {
+        "modules": [
+            {
+                "items": [
+                    {
+                        "categoryName": "演唱会",
+                        "cityName": "青岛",
+                        "countdownTime": 91555365,
+                        "ipvuv": "8.5万人想看",
+                        "itemId": 626952335856,
+                        "name": "【青岛】2020青岛凤凰音乐节",
+                        "onSaleTime": "明天11:18开抢",
+                        "priceLow": "328",
+                        "schema": "damai://V1/ProjectPage?id=626952335856",
+                        "showTime": "2020.10.02-10.03",
+                        "status": "1",
+                        "upTime": 1599707880000,
+                        "venueName": "青岛凤凰之声大剧院(西海岸新区)",
+                        "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN019AxcCM2GdSGMDwLwP_!!2251059038.jpg"
+                    }
+                ],
+                "tip": "设置提醒 不错过⏰",
+                "title": "即将开抢",
+                "type": "2"
+            },
+            {
+                "items": [
+                    {
+                        "categoryName": "演唱会",
+                        "cityName": "长沙",
+                        "ipvuv": "2.1万人想看",
+                        "itemId": 626183616742,
+                        "name": "【长沙】2020长沙草莓音乐节",
+                        "priceLow": "320",
+                        "schema": "damai://V1/ProjectPage?id=626183616742",
+                        "showTime": "2020.10.16-10.18",
+                        "status": "2",
+                        "upTime": 1599467400000,
+                        "venueName": "长沙国际会展中心西广场",
+                        "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN011XxoYE2GdSGMXzY8Q_!!2251059038.jpg"
+                    },
+                    {
+                        "categoryName": "体育",
+                        "cityName": "大连",
+                        "ipvuv": "1.3万人想看",
+                        "itemId": 626532286025,
+                        "name": "【大连】2020中国平安中国足球协会超级联赛-大连赛区(大连体育中心体育场)",
+                        "priceLow": "0",
+                        "schema": "damai://V1/ProjectPage?id=626532286025",
+                        "showTime": "2020.09.09 周三",
+                        "status": "2",
+                        "upTime": 1599537145000,
+                        "venueName": "大连体育中心体育场",
+                        "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xUxZQn2GdSGIvOrpN_!!2251059038.jpg"
+                    }
+                ],
+                "tip": "不错过每一个热门演出👀",
+                "title": "正在热抢",
+                "type": "3"
+            }
+        ],
+        "shareUrl": "https://m.damai.cn/damai/activity/broadlist/index.html?city=2984"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "1.0"
+}
